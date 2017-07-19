@@ -1,5 +1,5 @@
 # vDrumsPlayer
-A little App to help v-drums players to play with a Mac instantly their v-drum with DSP effects
+A little App to help v-drums players to play with a Mac instantly their v-drum with DSP effects.
 
 Just connect your v-drum to your external audio card (stereo input only up to 4 stereo pairs (8 in, 2 out)) and
 select in the central dropbox the channels you are useing.
